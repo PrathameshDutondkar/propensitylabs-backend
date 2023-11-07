@@ -1,7 +1,7 @@
 # Iworktest-Backend
 
 ## `Running Locally`
-git clone https://github.com/PrathameshDutondkar/Backend.git
+git clone this repo
 
 
 cd Backend\
