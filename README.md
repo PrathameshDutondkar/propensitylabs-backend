@@ -1,4 +1,4 @@
-# Iworktest-Backend
+# propensitylabs-backend
 
 ## `Running Locally`
 git clone this repo
